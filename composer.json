@@ -1,6 +1,6 @@
 {
     "name": "nozer/test",
     "require": {
-        "nozer/test": "1.0.*"
+        "942051220/pwbtc_test": "1.0.*"
     }
 }
