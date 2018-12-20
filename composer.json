@@ -1,6 +1,6 @@
 {
     "name": "nozer/test",
     "require": {
-		"php": ">=5.5",
+        "pwbtc_test/test": "1.0.0"
     }
 }
